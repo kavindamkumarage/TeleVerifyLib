@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kavindakumarage/TeleverifyLib.git"    
+    "url": "git+https://github.com/kavindakumarage/TeleverifyLib.git"
   },
   "keywords": [
     "e164",
@@ -20,5 +20,9 @@
     "TeleVerifyLib"
   ],
   "author": "Kavinda Kumarage",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^5.4.2"
+  },
+  "type": "module"
 }
